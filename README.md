@@ -41,3 +41,7 @@ To write the whole EEPROM, put pin 2 low (use BP aux pin), group in sets of 16 b
     [ 0xa6 0xf0 <byte> ... <byte> ]
 
 And that's all. Note the address bytes are 0xa0, 0xa2, 0xa4, 0xa6, each is repeated 16 times. The second byte is the address within that block, in 16 increments each (since we're giving 16 bytes in each command). In total, 16 bytes x 16 addrs per block x 4 blocks = 1024 bytes = THE WHOLE ADDRESS SPACE! See `write-mac-flash.txt` with an example.
+
+## Software
+
+I haven't played with SW yet. Some info can be found [in this blogpost](http://alvarop.com/2013/08/kinesis-freestyle-2-keyboard-mod-to-fix-media-keys/).
