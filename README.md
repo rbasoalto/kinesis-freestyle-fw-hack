@@ -48,4 +48,4 @@ I did an experimental remap to the Colemak layout, at the firmware level. Config
 
 ## Software
 
-I haven't played with SW yet. Some info can be found [in this blogpost](http://alvarop.com/2013/08/kinesis-freestyle-2-keyboard-mod-to-fix-media-keys/).
+I haven't played with SW yet. Some info can be found [in this blogpost](http://alvarop.com/2013/08/kinesis-freestyle-2-keyboard-mod-to-fix-media-keys).
